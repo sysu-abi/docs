@@ -4,8 +4,8 @@
 |:--|:--|:--|:--|
 |v1.0|2019-4-13|初代分工文档|Saber222|
 
-- 1、[团队故事](https://github.com/sysu-abi/docs/edit/master/team-profile.md#1、团队故事)
-- 2、[团队分工](https://github.com/sysu-abi/docs/edit/master/team-profile.md#2、团队分工)
+- 1、[团队故事](https://github.com/sysu-abi/docs/edit/master/team-profile.md/#1团队故事)
+- 2、[团队分工](https://github.com/sysu-abi/docs/edit/master/team-profile.md/#2团队分工)
 
 ## 1、团队故事
 没有故事，一群可怜人
