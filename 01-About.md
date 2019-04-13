@@ -2,9 +2,9 @@
 |版本| 日期 | 描述 | 作者 |
 |:--|:--|:--|:--|
 |v1.0|2019-4-13|初代About|Saber222|
-- [项目简介](https://github.com/sysu-abi/docs/blob/master/About.md/#1项目简介)
-- [重要分析设计文档](https://github.com/sysu-abi/docs/blob/master/About.md/#2重要分析设计文档)
-- [敏捷开发迭代管理与大事纪](https://github.com/sysu-abi/docs/blob/master/About.md/#3敏捷开发迭代管理与大事纪)
+- [项目简介](https://github.com/sysu-abi/docs/blob/master/01-About.md/#1项目简介)
+- [重要分析设计文档](https://github.com/sysu-abi/docs/blob/master/01-About.md/#2重要分析设计文档)
+- [敏捷开发迭代管理与大事纪](https://github.com/sysu-abi/docs/blob/master/01-About.md/#3敏捷开发迭代管理与大事纪)
 
 
 ## 1、项目简介
