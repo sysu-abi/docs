@@ -2,7 +2,7 @@
   
 
 - 1、[About（项目概况）](https://github.com/sysu-abi/docs/blob/master/01-About.md)
-- 2、[Team profile（团队组建与分工）](https://github.com/sysu-abi/docs/blob/master/team-profile.md)
+- 2、[Team profile（团队组建与分工）](https://github.com/sysu-abi/docs/blob/master/02-team-profile.md)
 - 3、Investigation（项目前期调研/竞品分析）
 - 4、[Vision（项目愿景）](https://github.com/sysu-abi/docs/blob/master/04-vision.md)
 - 5、Product Backlog （产品特性库）
