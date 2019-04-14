@@ -4,7 +4,7 @@
 - 1、[About（项目概况）](https://github.com/sysu-abi/docs/blob/master/01-About.md)
 - 2、[Team profile（团队组建与分工）](https://github.com/sysu-abi/docs/blob/master/team-profile.md)
 - 3、Investigation（项目前期调研/竞品分析）
-- 4、Vision（项目愿景）
+- 4、[Vision（项目愿景）](https://github.com/sysu-abi/docs/blob/master/04-vision.md/#%E7%94%A8%E6%88%B7%E4%BA%A4%E6%B5%81)
 - 5、Product Backlog （产品特性库）
 - 6、Requirement specification（需求规格说明书）
   - 6.1 Usecase Diagram and UML Activity Diagram（用例图，业务过程/多泳道图）
