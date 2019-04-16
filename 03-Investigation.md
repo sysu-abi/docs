@@ -18,9 +18,10 @@
 
 按照安装人次从高到底排列
 
-![竞品列表截图1](C:\Users\chenxii12138\Desktop\竞品列表截图1.PNG)
+<img src = "https://images.gitee.com/uploads/images/2019/0416/212922_405f0a78_2160055.png"/>
 
-![竞品列表截图2](C:\Users\chenxii12138\Desktop\竞品列表截图2.PNG)
+<img src = "https://images.gitee.com/uploads/images/2019/0416/213059_adbfefa1_2160055.png"/>
+
 
 #### 交互设计与技术分析
 
@@ -30,7 +31,8 @@
 
 邻工赚钱
 
-![邻工赚钱思维导图 (2)](C:\Users\chenxii12138\Desktop\邻工赚钱思维导图 (2).PNG)
+<img src = "https://images.gitee.com/uploads/images/2019/0416/213223_0e488a09_2160055.png"/>
+
 
 分析：
 
@@ -39,7 +41,7 @@
 
 打零工
 
-![打零工](C:\Users\chenxii12138\Desktop\打零工.png)
+<img src = "https://images.gitee.com/uploads/images/2019/0416/213323_36196655_2160055.png"/>
 
 分析：
 
@@ -83,37 +85,58 @@
 #### 附录
 
 邻工赚钱：
+<table>
+	<tr>
+		<td><img src = "https://images.gitee.com/uploads/images/2019/0416/213907_1d5a4cce_2160055.jpeg" width="250"/></br>
+		</td>
+        <td><img src = "https://images.gitee.com/uploads/images/2019/0416/213916_f0f57dc1_2160055.jpeg" width="250"/></br>
+ 		</td>
+        <td><img src = "https://images.gitee.com/uploads/images/2019/0416/213930_d12c9ef8_2160055.jpeg" width="250"/></br>
+		</td> 
+	</tr>	
+<table>
+<table>
+	<tr>
+		<td><img src = "https://images.gitee.com/uploads/images/2019/0416/214047_8a32b1ca_2160055.png" width="250"/></br>
+		</td>
+        <td><img src = "https://images.gitee.com/uploads/images/2019/0416/214102_9e4946e0_2160055.png" width="250"/></br>
+ 		</td>
+        <td><img src = "https://images.gitee.com/uploads/images/2019/0416/214113_16d2aa18_2160055.jpeg" width="250"/></br>
+		</td> 
+	</tr>	
+<table>
+<img src = "https://images.gitee.com/uploads/images/2019/0416/214122_325ebe57_2160055.jpeg" width="250"/>
 
-![1](C:\Users\chenxii12138\Desktop\邻工赚钱\1.jpg)
-
-![2](C:\Users\chenxii12138\Desktop\邻工赚钱\2.jpg)
-
-![3](C:\Users\chenxii12138\Desktop\邻工赚钱\3.jpg)
-
-![4](C:\Users\chenxii12138\Desktop\邻工赚钱\4.png)
-
-![5](C:\Users\chenxii12138\Desktop\邻工赚钱\5.png)
-
-![6](C:\Users\chenxii12138\Desktop\邻工赚钱\6.jpg)
-
-![7](C:\Users\chenxii12138\Desktop\邻工赚钱\7.jpg)
 
 打零工：
+<table>
+	<tr>
+		<td><img src = "https://images.gitee.com/uploads/images/2019/0416/214317_8b27d38a_2160055.png" width="250"/></br>
+		</td>
+        <td><img src = "https://images.gitee.com/uploads/images/2019/0416/214328_1df54229_2160055.png" width="250"/></br>
+ 		</td>
+        <td><img src = "https://images.gitee.com/uploads/images/2019/0416/214336_8f5f38e6_2160055.png" width="250"/></br>
+		</td> 
+	</tr>	
+<table>
+<table>
+	<tr>
+		<td><img src = "https://images.gitee.com/uploads/images/2019/0416/214343_7e6a115c_2160055.png" width="250"/></br>
+		</td>
+        <td><img src = "https://images.gitee.com/uploads/images/2019/0416/214353_e4a0aecb_2160055.png" width="250"/></br>
+ 		</td>
+        <td><img src = "https://images.gitee.com/uploads/images/2019/0416/214509_009f4dc8_2160055.png" width="250"/></br>
+		</td> 
+	</tr>	
+<table>
+<table>
+	<tr>
+		<td><img src = "https://images.gitee.com/uploads/images/2019/0416/214518_a4950fc4_2160055.png" width="250"/></br>
+		</td>
+        <td><img src = "https://images.gitee.com/uploads/images/2019/0416/214525_6259c3fb_2160055.png" width="250"/></br>
+ 		</td>
+        <td><img src = "https://images.gitee.com/uploads/images/2019/0416/214531_02cc6942_2160055.png" width="250"/></br>
+		</td> 
+	</tr>	
+<table>
 
-![1](C:\Users\chenxii12138\Desktop\打零工\1.png)
-
-![2](C:\Users\chenxii12138\Desktop\打零工\2.png)
-
-![3](C:\Users\chenxii12138\Desktop\打零工\3.png)
-
-![4](C:\Users\chenxii12138\Desktop\打零工\4.png)
-
-![5](C:\Users\chenxii12138\Desktop\打零工\5.png)
-
-![6](C:\Users\chenxii12138\Desktop\打零工\6.png)
-
-![7](C:\Users\chenxii12138\Desktop\打零工\7.png)
-
-![8](C:\Users\chenxii12138\Desktop\打零工\8.png)
-
-![9](C:\Users\chenxii12138\Desktop\打零工\9.png)
