@@ -1,13 +1,13 @@
 # 赚闲钱项目竞品报告
 
-- [背景](https://github.com/chenxii12138/docs/blob/master/03-Investigation.md/#1背景)
-- [竞品列表](https://github.com/chenxii12138/docs/blob/master/03-Investigation.md/#2竞品列表)
-- [交互设计与技术分析](https://github.com/chenxii12138/docs/blob/master/03-Investigation.md/#3交互设计与技术分析)
-- [功能框架](https://github.com/chenxii12138/docs/blob/master/03-Investigation.md/#4功能框架)
-- [交互体验与视觉风格](https://github.com/chenxii12138/docs/blob/master/03-Investigation.md/#5交互体验与视觉风格)
-- [亮点特点借鉴](https://github.com/chenxii12138/docs/blob/master/03-Investigation.md/#6亮点特点借鉴)
-- [总结](https://github.com/chenxii12138/docs/blob/master/03-Investigation.md/#7总结)
-- [附录](https://github.com/chenxii12138/docs/blob/master/03-Investigation.md/#8附录)
+- [背景](https://github.com/chenxii12138/docs/blob/master/03-Investigation.md/#背景)
+- [竞品列表](https://github.com/chenxii12138/docs/blob/master/03-Investigation.md/#竞品列表)
+- [交互设计与技术分析](https://github.com/chenxii12138/docs/blob/master/03-Investigation.md/#交互设计与技术分析)
+- [功能框架](https://github.com/chenxii12138/docs/blob/master/03-Investigation.md/#功能框架)
+- [交互体验与视觉风格](https://github.com/chenxii12138/docs/blob/master/03-Investigation.md/#交互体验与视觉风格)
+- [亮点特点借鉴](https://github.com/chenxii12138/docs/blob/master/03-Investigation.md/#亮点特点借鉴)
+- [总结](https://github.com/chenxii12138/docs/blob/master/03-Investigation.md/#总结)
+- [附录](https://github.com/chenxii12138/docs/blob/master/03-Investigation.md/#附录)
 
 
 #### 背景
