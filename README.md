@@ -8,7 +8,7 @@
 - 5、[Product Backlog （产品特性库）](https://github.com/sysu-abi/docs/blob/master/05-Product-Backlog.md)
 - 6、Requirement specification（需求规格说明书）
   - 6.1 Usecase Diagram and UML Activity Diagram（用例图，业务过程/多泳道图）
-  - 6.2 Use Cases（用例+活动图）
+  - 6.2 [Use Cases（用例+活动图）](https://github.com/sysu-abi/docs/blob/master/%E7%94%A8%E4%BE%8B%2B%E6%B4%BB%E5%8A%A8%E5%9B%BE.md)
   - 6.3 Domian Models（领域模型）
   - 6.4 State Models（状态模型）
   - 6.5 System Sequence Diagrams（功能模型）
