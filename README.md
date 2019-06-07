@@ -9,9 +9,9 @@
 - 6、Requirement specification（需求规格说明书）
   - 6.1 Usecase Diagram and UML Activity Diagram（用例图，业务过程/多泳道图）
   - 6.2 [Use Cases（用例+活动图）](https://github.com/sysu-abi/docs/blob/master/%E7%94%A8%E4%BE%8B%2B%E6%B4%BB%E5%8A%A8%E5%9B%BE.md)
-  - 6.3 Domian Models（领域模型）
+  - 6.3 [Domian Models（领域模型）](https://github.com/sysu-abi/docs/blob/master/%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B.md)
   - 6.4 State Models（状态模型）
-  - 6.5 System Sequence Diagrams（功能模型）
+  - 6.5 [System Sequence Diagrams（功能模型）](https://github.com/sysu-abi/docs/blob/master/%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9E%8B.md)
   - 6.6 Supplementary Requirements（补充需求）
 - 7、Design（设计说明书）
   - 7.1 UI design（界面设计）
