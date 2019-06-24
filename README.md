@@ -28,7 +28,10 @@
   - 9.1 XX短视频
   - 9.2 XX短视频
 - X1 meeting-records
-  - inception meeting (yy/mm/dd)
+  - [inception meeting (19/04/02)](https://github.com/sysu-abi/docs/blob/master/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95.pdf)
+  - [iteration-1 meeting(19/04/07)](https://github.com/sysu-abi/docs/blob/master/Iteration-1%20%E5%90%AF%E5%8A%A8%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81.md)
+  - [iteration-2 meeting(19/05/05)](https://github.com/sysu-abi/docs/blob/master/Iteration-2%20%E5%90%AF%E5%8A%A8%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81.md)
+  - [iteration-3 meeting(19/06/02)](https://github.com/sysu-abi/docs/blob/master/Iteration-3%20%E5%90%AF%E5%8A%A8%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81.md)
 - X2 KANBAN
 - X3 auditing-records
 - X4 Tech/Work Report
