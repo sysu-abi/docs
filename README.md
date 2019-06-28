@@ -32,7 +32,7 @@
   - [iteration-1 meeting(19/04/07)](https://github.com/sysu-abi/docs/blob/master/Iteration-1%20%E5%90%AF%E5%8A%A8%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81.md)
   - [iteration-2 meeting(19/05/05)](https://github.com/sysu-abi/docs/blob/master/Iteration-2%20%E5%90%AF%E5%8A%A8%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81.md)
   - [iteration-3 meeting(19/06/02)](https://github.com/sysu-abi/docs/blob/master/Iteration-3%20%E5%90%AF%E5%8A%A8%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81.md)
-- X2 KANBAN
+- X2 [KANBAN](https://github.com/orgs/sysu-abi/projects)
 - X3 auditing-records
 - X4 Tech/Work Report
   - 学号-title
