@@ -34,7 +34,7 @@
 - X2 [KANBAN](https://github.com/orgs/sysu-abi/projects)
 - X3 auditing-records
 - X4 Tech/Work Report
-  - [5322244-Web项目部署总结](https://blog.csdn.net/baidu_36360269/article/details/94173593)
+  - [15322244-Web项目部署总结](https://blog.csdn.net/baidu_36360269/article/details/94173593)
   - [16340005-Web开发总结](https://blog.csdn.net/c72digerworld/article/details/93058956)
   - [16340013-项目管理经验总结](https://blog.csdn.net/my__saber/article/details/94169109)
 - X5 Final Report
