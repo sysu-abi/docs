@@ -34,7 +34,9 @@
 - X2 [KANBAN](https://github.com/orgs/sysu-abi/projects)
 - X3 auditing-records
 - X4 Tech/Work Report
-  - 学号-title
+  - [16340005-Web开发总结](https://blog.csdn.net/c72digerworld/article/details/93058956)
+  - [16340013-项目管理经验总结](https://blog.csdn.net/my__saber/article/details/94169109)
 - X5 Final Report
-  - 学号-title
+  - [16340005-Final Report](https://blog.csdn.net/c72digerworld/article/details/94154982)
+  - [16340013-Final Report](https://blog.csdn.net/my__saber/article/details/94184364)
   - [小组分工与贡献率说明](https://github.com/sysu-abi/docs/blob/master/%E5%B0%8F%E7%BB%84%E5%88%86%E5%B7%A5%E4%B8%8E%E8%B4%A1%E7%8C%AE%E7%8E%87%E8%AF%B4%E6%98%8E.md)
