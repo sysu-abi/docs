@@ -32,7 +32,7 @@
   - [iteration-2 meeting(19/05/05)](https://github.com/sysu-abi/docs/blob/master/Iteration-2%20%E5%90%AF%E5%8A%A8%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81.md)
   - [iteration-3 meeting(19/06/02)](https://github.com/sysu-abi/docs/blob/master/Iteration-3%20%E5%90%AF%E5%8A%A8%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81.md)
 - X2 [KANBAN](https://github.com/orgs/sysu-abi/projects)
-- X3 auditing-records
+- X3 [auditing-records](https://github.com/sysu-abi/docs/blob/master/%E5%AE%A1%E8%AE%A1%E8%AE%B0%E5%BD%95.md)
 - X4 Tech/Work Report
   - [15322244-Web项目部署总结](https://blog.csdn.net/baidu_36360269/article/details/94173593)
   - [16340005-Web开发总结](https://blog.csdn.net/c72digerworld/article/details/93058956)
