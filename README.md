@@ -20,7 +20,7 @@
   - 7.4 [Architecture design（架构设计）](https://github.com/sysu-abi/docs/blob/master/7.4%20Architecture%20design.md)
   - 7.5 [Usecase design（用例设计）](https://github.com/sysu-abi/docs/blob/master/7.5%20Usecase%20design.md)
 - 8、生产规范与指南
-  - 8.1 XX 代码规范
+  - 8.1 [XX 代码规范](https://github.com/sysu-abi/docs/blob/master/8.1Ceres%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)
   - 8.2 [REST API 设计规范](https://github.com/sysu-abi/docs/blob/master/8.2%20REST%20API%20%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83.md)
   - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](https://github.com/sysu-abi/docs/blob/master/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E3%80%81%E8%AF%A6%E7%BB%86%E8%AE%BE%E8%AE%A1%EF%BC%88BCE%E6%96%B9%E6%B3%95%EF%BC%89%E5%88%B0%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%A1%86%E6%9E%B6%E6%98%A0%E5%B0%84%E6%8C%87%E5%8D%97.md)
   - 8.4 [部署说明](https://github.com/sysu-abi/docs/blob/master/%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E8%AF%B4%E6%98%8E.md)
