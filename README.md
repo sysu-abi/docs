@@ -38,12 +38,13 @@
   - [16340005-Web开发总结](https://blog.csdn.net/c72digerworld/article/details/93058956)
   - [16340013-项目管理经验总结](https://blog.csdn.net/my__saber/article/details/94169109)
   - [16340011-Android项目推荐技术总结](https://niz712.github.io/2019/06/29/Android%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93/)
+  - [16340041-Android开发使用技术总结](https://gooone.github.io/swsad-final-tech-index.html)
 - X5 Final Report
   - [15322244-Final Report](https://blog.csdn.net/baidu_36360269/article/details/94222304)
   - [16340005-Final Report](https://blog.csdn.net/c72digerworld/article/details/94154982)
   - [16340013-Final Report](https://blog.csdn.net/my__saber/article/details/94184364)
   - [16340011-Final Report](https://niz712.github.io/2019/06/30/16340011-Niz712-Final-Report/ )
-
+  - [16340041-Final Report](https://gooone.github.io/swsad-final-report.html)
   - [16340036-Final Report](https://blog.csdn.net/CHENXI12138/article/details/94347083)
    - [小组分工与贡献率说明](https://github.com/sysu-abi/docs/blob/master/%E5%B0%8F%E7%BB%84%E5%88%86%E5%B7%A5%E4%B8%8E%E8%B4%A1%E7%8C%AE%E7%8E%87%E8%AF%B4%E6%98%8E.md)
 
