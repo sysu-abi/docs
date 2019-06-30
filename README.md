@@ -39,6 +39,7 @@
   - [16340013-项目管理经验总结](https://blog.csdn.net/my__saber/article/details/94169109)
   - [16340011-Android项目推荐技术总结](https://niz712.github.io/2019/06/29/Android%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93/)
   - [16340041-Android开发使用技术总结](https://gooone.github.io/swsad-final-tech-index.html)
+  - [16340036-OpenSystemArchitect数据库建模简要教程](https://blog.csdn.net/CHENXI12138/article/details/94357187)
 - X5 Final Report
   - [15322244-Final Report](https://blog.csdn.net/baidu_36360269/article/details/94222304)
   - [16340005-Final Report](https://blog.csdn.net/c72digerworld/article/details/94154982)
