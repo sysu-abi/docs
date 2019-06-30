@@ -13,7 +13,7 @@
 ## 2、重要分析设计文档
 - [需求规格说明书](https://github.com/sysu-abi/docs/blob/master/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%EF%BC%88SRS%EF%BC%89.md)
 - [软件设计说明书](https://github.com/sysu-abi/docs/blob/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3%20(SDS).md)
-- [产品演示视频](产品演示视频.mp4)
+- [产品演示视频](https://github.com/sysu-abi/docs/blob/master/Ceres%E4%BD%BF%E7%94%A8%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.wmv)
 
 
 ## 3、敏捷开发迭代管理与大事纪
