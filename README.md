@@ -41,4 +41,5 @@
   - [15322244-Final Report](https://blog.csdn.net/baidu_36360269/article/details/94222304)
   - [16340005-Final Report](https://blog.csdn.net/c72digerworld/article/details/94154982)
   - [16340013-Final Report](https://blog.csdn.net/my__saber/article/details/94184364)
+  - [16340036-Final Report](https://blog.csdn.net/CHENXI12138/article/details/94347083)
   - [小组分工与贡献率说明](https://github.com/sysu-abi/docs/blob/master/%E5%B0%8F%E7%BB%84%E5%88%86%E5%B7%A5%E4%B8%8E%E8%B4%A1%E7%8C%AE%E7%8E%87%E8%AF%B4%E6%98%8E.md)
